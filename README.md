@@ -2,9 +2,7 @@
 ***
 ## Goals:
 * 预测图片中的残缺图形
-* 通过监督学习检验图形完整性
-  1.轮廓连续
-  2.颜色统一
+* 通过监督学习检验图形完整性（轮廓连续、颜色统一）
 ***
 ## Related documents:
 * https://github.com/llSourcell/How-to-Generate-Art-Demo
