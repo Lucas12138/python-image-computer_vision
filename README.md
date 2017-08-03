@@ -1,5 +1,11 @@
 # python-image-computer_vision
 ***
+## Goals:
+* 预测图片中的残缺图形
+* 通过监督学习检验图形完整性
+  1.轮廓连续
+  2.颜色统一
+***
 ## Related documents:
 * https://github.com/llSourcell/How-to-Generate-Art-Demo
 > Using CNN to convert an image to the target style
